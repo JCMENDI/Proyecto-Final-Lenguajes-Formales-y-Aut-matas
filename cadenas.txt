@@ -1,0 +1,10 @@
+abaab#ab
+abaab*#ab*
+abaab**#ab**
+abaab#ab*
+abaab*#ab
+*ba#***baaba
+**ba#**baaba
+***ba#*baaba
+ba#****baaba
+****ba#baaba
